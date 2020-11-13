@@ -4,6 +4,6 @@
 
 <p align="center">
   
-<img src="./images/EdCoourse.JPG"  width="640" height="300">
+<img src="./python_result.JPG"  width="640" height="200">
 
 </p>
