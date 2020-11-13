@@ -4,6 +4,6 @@
 
 <p align="center">
   
-<img src="./python_result.JPG"  width="640" height="200">
+<img src="./images/iForest.PNG"  width="640" height="200">
 
 </p>
