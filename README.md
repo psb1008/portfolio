@@ -1,15 +1,15 @@
-# **Industrial AI** 
+# **Industrial AI Portfolio** 
 
 ## Introduction
 
 2020년 9월 산업인공지능학과 입학
-
+</br>
 
 
 ## Contacts
 
 - e-mail : beomi0921@hanmail.net
-
+</br>
 
 
 ## Educational Course
