@@ -4,7 +4,7 @@
 ## Introduction
 
 2020년 9월 산업인공지능학과 입학
-</br>
+</br></br>
 
 ## Contacts
 
