@@ -1,4 +1,6 @@
 # **Industrial AI Portfolio** 
+
+산업인공지능학 석사과정  
 </br>
 
 ## Introduction
