@@ -15,7 +15,11 @@
 <p>프로젝트 1. 재직 현장의 문제에 대한 간단한 전문가시스템을 개발한다.</p>
 <p>프로젝트 2. 재직 현장에서 발생하는 데이터에 대해 기계학습 기법을 적용하는 시스템을 개발한다.</p>
 <p>프로젝트 3. 재직 현장에서 발생하는 이미지 데이터에 대한 인식 시스템을 개발한다.</p>
-
+<p>&nbsp;</p>
 <p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Main Stack</strong></span></p>
-
-<img src="../../images/python_colab.png"  width="200" height="100">
+<img src="../../images/python_colab.png"  width="220" height="100">
+<p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Sub Stack</strong></span></p>
+<p>
+<img src="../../images/numpy.png"  width="220" height="100">
+<img src="../../images/tensorflow.png"  width="220" height="100">
+</p>
