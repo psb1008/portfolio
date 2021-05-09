@@ -14,4 +14,4 @@
 <p>&nbsp;</p>
 
 <p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Main Stack</strong></span></p>
-<img src="../images/python_18894.png"  width="30" height="30">
+<img src="../../images/python_18894.png"  width="30" height="30">
