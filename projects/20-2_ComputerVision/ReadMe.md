@@ -21,4 +21,4 @@
 <p>
 <img src="../../images/opencv.png"  width="200" height="100">
 <img src="../../images/numpy.png"  width="200" height="100">
-</p>
+</p> 
