@@ -26,7 +26,7 @@
 
 ### 수강중인 과목
 
-- `2021-03` [머신비전 프로그래밍](https://github.com/psb1008/portfolio/tree/master/projects/21-1_MachineLearning_programming): 머신러닝 알고리즘을 학습하고 정적 모델을 현업에 적용
+- `2021-03` [머신비전 프로그래밍](https://https://github.com/psb1008/portfolio/tree/master/projects/21-1_MachineLearning_Programming): 머신러닝 알고리즘을 학습하고 정적 모델을 현업에 적용
 - `2021-03` [딥러닝 실제](https://github.com/psb1008/portfolio/tree/master/projects/21-1_DeepLearning_Reality): 인공지능시스템의 기본이 되는신경회로망 및 딥러닝에 대한 학습
 - `2021-03` [산업인공지능개론](https://github.com/psb1008/portfolio/tree/master/projects/21-1_산업인공지능개론): 산업 현장 적용을 위한 인공지능 기술의 주요 개념 및 알고리즘 학습
 
