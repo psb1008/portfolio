@@ -14,7 +14,11 @@
 <p>&nbsp;</p>
 
 <p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Main Stack</strong></span></p>
+
+<img src="../../images/python_pycharm.png"  width="200" height="100">
+
+<p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Sub Stack</strong></span></p>
 <p>
-<img src="../../images/python.png"  width="100" height="100"> <img src="../../images/opencv.png"  width="200" height="100">
-<img src="../../images/numpy.png"  width="200" height="100"> <img src="../../images/pycharm.png"  width="150" height="150">
+<img src="../../images/opencv.png"  width="200" height="100">
+<img src="../../images/numpy.png"  width="200" height="100">
 </p>
