@@ -16,6 +16,7 @@
 </p> 
 <p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Sub Stack</strong></span></p>
 <p>
+ <img src="../../images/cuda.png"  width="120" height="100">
 <img src="../../images/tensorflow.png"  width="200" height="100">
 <img src="../../images/numpy.png"  width="200" height="100">
 </p> 
