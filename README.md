@@ -1,8 +1,10 @@
+
 # **Industrial AI Portfolio** 
 
 산업인공지능학 석사과정 포트폴리오 
 </br></br>
 
+<img src="./images/icon_star.JPG"  width="30" height="30">
 
 ## Introduction
 
