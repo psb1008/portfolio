@@ -15,3 +15,4 @@
 
 <p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Main Stack</strong></span></p>
 <img src="../../images/python.png"  width="80" height="80">
+<img src="../../images/opencv.png"  width="80" height="80">
