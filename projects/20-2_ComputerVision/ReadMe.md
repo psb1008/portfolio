@@ -12,3 +12,6 @@
 <p>- 다중 뷰 기하학에 대한 이해가 가능함</p>
 <p>- 실험실습을 통해 실제 산업현장에서 사용되는 컴퓨터비전 기술들을 적용해 볼 예정</p>
 <p>&nbsp;</p>
+
+<P>Main Stack</P>
+<img src="../images/EdCoourse.JPG"  width="30" height="30">
