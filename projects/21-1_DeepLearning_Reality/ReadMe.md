@@ -6,3 +6,15 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline; background-color: #ffff99;"><strong>학습목표</strong></span></p>
 <p>- 파이썬과 텐서플로우를 이용한 딥러닝 시스템의 구현</p>
+<p>&nbsp;</p>
+
+<p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Main Stack</strong></span></p>
+<p>
+<img src="../../images/python.png"  width="100" height="100">
+<img src="../../images/spyder.png"  width="100" height="100">
+</p> 
+<p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Sub Stack</strong></span></p>
+<p>
+<img src="../../images/tensorflow.png"  width="200" height="100">
+<img src="../../images/numpy.png"  width="200" height="100">
+</p> 
