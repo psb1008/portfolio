@@ -13,5 +13,5 @@
 <p>- 실험실습을 통해 실제 산업현장에서 사용되는 컴퓨터비전 기술들을 적용해 볼 예정</p>
 <p>&nbsp;</p>
 
-<P>Main Stack</P>
-<img src="../images/EdCoourse.JPG"  width="30" height="30">
+<p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>Main Stack</strong></span></p>
+<img src="../images/python_18894.png"  width="30" height="30">
