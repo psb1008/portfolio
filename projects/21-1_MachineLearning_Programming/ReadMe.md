@@ -6,5 +6,4 @@
 <p>Implementation of the machine learning algorithms will be guided with codes using open-source libraries such as Numpy and Scipy.</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline; background-color: #ffff99;"><strong>학습목표</strong></span></p>
-<p>- The basic ideas of data processing and statistics in machine learning</p>
-<p>Algorithms and statistical models in machine learning</p>
+<p>- The basic ideas of data processing and statistics in machine learning Algorithms and statistical models in machine learning</p>
