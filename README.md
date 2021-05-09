@@ -4,20 +4,18 @@
 산업인공지능학 석사과정 포트폴리오 
 </br></br>
 
-<img src="./images/icon_star.JPG"  width="30" height="30">
-
-## Introduction
+## <img src="./images/icon_star.png"  width="20" height="20" align="center"> Introduction
 
 - 산업인공지능학과 재학중
 - (주)인텍플러스 재직중
 </br></br>
 
-## Contacts
+## <img src="./images/icon_star.png"  width="20" height="20" align="center"> Contacts
 
 - e-mail : beomi0921@hanmail.net
 </br>
 
-## Educational Course
+## <img src="./images/icon_star.png"  width="20" height="20" align="center"> Educational Course
 
 <p align="center">
   
