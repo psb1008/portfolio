@@ -5,3 +5,5 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline; background-color: #ffff99;"><strong>학습목표</strong></span></p>
 <p>- 산업 인공지능분야에 적합한 주제를 창의력과 융합적 사고를 통하여 최대한 다양하고 많은 주제를 도출하고 이에 대한 문제 해결 방법을 모색할 수 있도록 함</p>
+<p>&nbsp;</p>
+<img src="../../images/doc.png"  width="200" height="200">
