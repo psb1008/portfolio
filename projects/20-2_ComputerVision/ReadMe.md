@@ -1,4 +1,4 @@
-<h1><span style="color:Red;"><strong>산업 컴퓨터비전 실제</strong></span></h1>
+<h1><strong>산업 컴퓨터비전 실제</strong></span></h1>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline; color: #000000; background-color: #ffff99;"><strong>강의개요</strong></span></p>
 <p>본 과목에서는 실제 산업환경에서 사용이 가능한 컴퓨터 비전 기술에 대해서 배우며, 파이썬 프로그래밍을 통해 학습한다</p>
