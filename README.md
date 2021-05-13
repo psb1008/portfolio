@@ -19,7 +19,7 @@
 
 <p align="center">
   
-<img src="./images/EdCoourse.JPG"  width="700" height="400">
+<img src="./images/EdCoourse.JPG"  width="700" height="350">
 
 </p>
 </br>
